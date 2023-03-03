@@ -37,7 +37,6 @@ if __name__ == '__main__':
             #
             # your specific task is to make xs be a list of all numbers between 0 and 2**x
             xs = list(range(2**x))
-            #xs = FIXME
 
         # calculate the runtimes
         runtimes = {}
